@@ -8,6 +8,8 @@ import NotFoundPage from './pages/NotFoundPage';
 import AboutPage from './pages/AboutPage';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
+
+
 function App() {
   return (
     <BrowserRouter>
@@ -33,3 +35,4 @@ function App() {
 }
 
 export default App;
+
